@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisorati00cice/mtciceronisorati00cice_0646.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2693 265 2711 625">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2693 265 2711 625">
+     <span class='ocr_line' id='line_1_1' title="bbox 2693 265 2711 625"><span class='ocrx_word' id='word_1_1' title='bbox 2694 265 2697 284; x_wconf 67' lang='grc'><em>.,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2693 301 2711 589; x_wconf 44' lang='grc' dir='ltr'><em>«ἓῦηίέι»</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2694 605 2702 625; x_wconf 67' lang='lat' dir='ltr'><em>v.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 784 434 1814 1937">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 784 434 1814 1937">
+     <span class='ocr_line' id='line_1_2' title="bbox 784 434 1814 1937"><span class='ocrx_word' id='word_1_4' title='bbox 784 434 1814 1937; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2692 636 2711 914">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2692 636 2711 914">
+     <span class='ocr_line' id='line_1_3' title="bbox 2692 636 2711 914"><span class='ocrx_word' id='word_1_5' title='bbox 2695 636 2699 642; x_wconf 70' lang='lat'><em>‹</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2693 655 2704 731; x_wconf 48' lang='lat' dir='ltr'><em>ane-§vm</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2694 752 2711 780; x_wconf 53' lang='lat' dir='ltr'><em>Mum</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2694 795 2711 870; x_wconf 55' lang='grc' dir='ltr'><em>μυνΙνῦι,</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2692 887 2711 914; x_wconf 37' lang='grc' dir='ltr'><em>Ὺ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2701 3814 2713 3906">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2701 3814 2713 3906">
+     <span class='ocr_line' id='line_1_4' title="bbox 2701 3814 2713 3906"><span class='ocrx_word' id='word_1_10' title='bbox 2702 3814 2703 3818; x_wconf 61' lang='grc'>,</span> <span class='ocrx_word' id='word_1_11' title='bbox 2701 3829 2713 3906; x_wconf 48' lang='grc' dir='ltr'><em>..ψκκιφῖ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
